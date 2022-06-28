@@ -1,0 +1,3 @@
+C:\Users\USER\source\repos\NotifServerV1\NotifServerV1\obj\Debug\NotifServerV1.njsproj.AssemblyReference.cache
+C:\Users\USER\source\repos\NotifServerV1\NotifServerV1\obj\Debug\NotifServerV1.njsproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\NotifServerV1\NotifServerV1\bin\Microsoft.NodejsTools.WebRole.dll

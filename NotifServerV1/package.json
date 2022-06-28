@@ -1,0 +1,17 @@
+{
+  "name": "notif-server-v1",
+  "version": "0.0.0",
+  "description": "NotifServerV1",
+  "scripts": {
+    "start": "node server"
+  },
+  "engines": {
+    "node": "~6.10.x"
+  },
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "ws": "^8.8.0"
+  }
+}
